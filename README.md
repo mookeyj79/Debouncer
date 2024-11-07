@@ -1,5 +1,5 @@
 # Debouncer
-Simple, yet flexible 'Debouncer' library for Arduino
+Simple, yet flexible 'Debouncer' library for Arduino.
 
 ## Usage
 | Command                                     | Description                                                                                                       | Default |
