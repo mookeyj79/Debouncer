@@ -13,4 +13,4 @@ Simple, yet flexible 'Debouncer' library for Arduino
 |     Debouncer.getState(int pin) => bool     | Returns a boolean value representing the current state of the given pin.                                          |         |
 
 ## Examples
-Please see the example directory for a quick and easy demo.
+Please see the [Examples](https://github.com/mookeyj79/Debouncer/tree/main/Examples) directory for a quick and easy demo.
